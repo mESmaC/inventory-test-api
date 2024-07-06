@@ -4,6 +4,7 @@ go 1.22.5
 
 require (
 	github.com/bxcodec/faker/v3 v3.8.1
+	github.com/gin-contrib/cors v1.7.2
 	github.com/gin-gonic/gin v1.10.0
 	github.com/go-faker/faker/v4 v4.4.2
 )
